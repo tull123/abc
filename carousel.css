@@ -7,6 +7,11 @@ body {
   padding-bottom: 3rem;
   color: #5a5a5a;
 }
+body{
+  
+  background:url("dr/999.png") no-repeat;
+  background-size: 10000%;
+}
 
 
 /* CUSTOMIZE THE CAROUSEL
